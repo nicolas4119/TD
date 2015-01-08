@@ -1,0 +1,23 @@
+total 140
+drwx------ 3 nicolas nicolas  4096 janv.  7 17:27 bin
+-rw------- 1 nicolas nicolas  7600 janv.  7 18:08 cmd.c
+-rw------- 1 nicolas nicolas  7184 janv.  6 18:13 cmd.c~
+-rw------- 1 nicolas nicolas  1384 janv.  6 22:09 cmd.h
+-rw------- 1 nicolas nicolas  1353 janv.  6 22:08 cmd.h~
+-rw-rw-r-- 1 nicolas nicolas 14072 janv.  7 21:07 cmd.o
+-rw------- 1 nicolas nicolas     0 janv.  7 21:08 coucou
+-rw------- 1 nicolas nicolas  1059 janv.  6 22:15 main.c
+-rw------- 1 nicolas nicolas  1040 janv.  6 19:32 main.c~
+-rw------- 1 nicolas nicolas  6096 janv.  7 11:25 main.o
+-rw------- 1 nicolas nicolas   397 janv.  6 18:13 Makefile
+-rwxrwxr-x 1 nicolas nicolas 24694 janv.  7 21:07 myshell
+drwx------ 3 nicolas nicolas  4096 janv.  7 17:27 obj
+-rw------- 1 nicolas nicolas  3502 janv.  7 16:56 shell_fct.c
+-rw------- 1 nicolas nicolas  3651 janv.  7 11:46 shell_fct.c~
+-rw------- 1 nicolas nicolas   280 janv.  7 11:46 shell_fct.h
+-rw------- 1 nicolas nicolas   239 janv.  6 18:13 shell_fct.h~
+-rw-rw-r-- 1 nicolas nicolas  8496 janv.  7 21:07 shell_fct.o
+-rw------- 1 nicolas nicolas  1355 janv.  6 21:43 TPSHELL4.cbp
+-rw------- 1 nicolas nicolas   348 janv.  6 19:29 TPSHELL4.depend
+-rw------- 1 nicolas nicolas  1046 janv.  6 21:43 TPSHELL4.layout
+-rw------- 1 nicolas nicolas   410 janv.  6 23:28 truc.txt

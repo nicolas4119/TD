@@ -1,0 +1,11 @@
+myshell
+shell_fct.c
+shell_fct.c~
+shell_fct.h
+shell_fct.o
+{myshell}root@ubuntu:/home/ubuntu/Documents/TPSHELL5$ ^Ctotal 120
+-rwxr-xr-x 1 root   root   23751 Jan  6 22:16 myshell
+-rw------- 1 ubuntu ubuntu  2959 Jan  6 22:16 shell_fct.c
+-rw------- 1 ubuntu ubuntu  2957 Jan  6 22:15 shell_fct.c~
+-rw------- 1 ubuntu ubuntu   239 Jan  6 17:13 shell_fct.h
+-rw-r--r-- 1 root   root    6512 Jan  6 22:16 shell_fct.o

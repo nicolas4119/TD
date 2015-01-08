@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1420422681 source:f:\cours\tpshell4\cmd.c
+	"cmd.h"
+
+1420422804 f:\cours\tpshell4\cmd.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1420568988 
+
+1420564392 source:c:\users\nico\documents\tpshell5\cmd.c
+	"cmd.h"
+
+1420568988 c:\users\nico\documents\tpshell5\cmd.h
+	<stdio.h>
+	<readline/readline.h>
+	<stdlib.h>
+	<string.h>
+
+1420650534 source:/home/nicolas/TPSHELL8bis/cmd.c
+	"cmd.h"
+
+1420578544 /home/nicolas/TPSHELL8bis/cmd.h
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+
+1420578956 source:/home/nicolas/TPSHELL8bis/main.c
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<pwd.h>
+	"shell_fct.h"
+
+1420627572 /home/nicolas/TPSHELL8bis/shell_fct.h
+	<unistd.h>
+	<sys/wait.h>
+	<sys/types.h>
+	"cmd.h"
+	<stdio.h>
+	<signal.h>
+
+1420646215 source:/home/nicolas/TPSHELL8bis/shell_fct.c
+	"shell_fct.h"
+
